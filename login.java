@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class SimpleLogin {
     public static void main(String[] args) {
         // Hardcoded credentials
-        String correctUsername = "admin";
-        String correctPassword = "password123";
+        String correctUsername = "devopsadmin";
+        String correctPassword = "devopspassword123";
 
         Scanner scanner = new Scanner(System.in);
 
